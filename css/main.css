@@ -63,7 +63,15 @@ nav a:hover {
 }
 
 .face {
-    max-width: 20%; 
+    max-width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    height: auto; 
+}
+
+.fish {
+    max-width: 60%; 
     margin-left: auto;
     margin-right: auto;
     display: block; 
