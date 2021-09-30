@@ -174,3 +174,27 @@ main {
     padding-right: 50px;
     height: 100;
 }
+
+a:link {
+  color: #dadada;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #dadada;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bdbdbd;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #dadada;
+  background-color: transparent;
+  text-decoration: underline;
+}
