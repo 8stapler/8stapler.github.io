@@ -178,7 +178,7 @@ main {
 a:link {
   color: #dadada;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
