@@ -176,29 +176,26 @@ main {
 }
 
 a:link {
-  color: #dadada;
-  background-color: transparent;
-  text-decoration: underline;
+    color: #dadada;
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 a:visited {
-  color: #dadada;
-  background-color: transparent;
-  text-decoration: underline;
+    color: #dadada;
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 a:hover {
-  color: #bdbdbd;
-  background-color: transparent;
-  text-decoration: underline;
+    color: #bdbdbd;
+    background-color: transparent;
+    text-decoration: underline;
 }
-
-a:active {
-  color: #dadada;
-  background-color: transparent;
-  text-decoration: underline;
+  
+.topName a:hover {
+    color: #dadada;
 }
-
 
 .topName a {
     text-decoration: none;
