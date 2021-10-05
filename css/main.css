@@ -198,3 +198,8 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+
+.topName a {
+    text-decoration: none;
+}
